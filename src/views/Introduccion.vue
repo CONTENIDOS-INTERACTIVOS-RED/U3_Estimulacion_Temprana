@@ -48,7 +48,7 @@
       .px-4.px-md-5.py-4
         div 
           .row.align-items-center
-            .col-lg-4
+            .col-lg-4.mb-3.mb-lg-0
               img(src="@/assets/curso/intro/6.svg", data-aos="zoom-in").mx-auto
             .col-lg-8.text-white
               p.mt-lg-5.mb-0 Se invita a participar activamente en las actividades propuestas, reflexionar sobre la práctica pedagógica y aplicar los conocimientos adquiridos en escenarios educativos reales o simulados. El compromiso con el proceso de aprendizaje permitirá fortalecer las competencias necesarias para impactar positivamente en el desarrollo de la primera infancia.

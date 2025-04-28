@@ -33,8 +33,8 @@
               .row.justify-content-center.align-items-center
                 .col-lg-8(data-aos="fade-left").order-2.p-4
                   p.mb-0 En este contexto Vidal (2007), afirma que la estimulación temprana en el aula juega un papel esencial. Más que una simple metodología, se trata de una serie de estrategias y prácticas que permiten fortalecer las capacidades individuales de cada niño, favoreciendo su autonomía y confianza en sí mismo. Además, se basa en el principio que el aprendizaje se construye a partir de la exploración, la curiosidad y la interacción con el entorno.
-                .col-lg-4(data-aos="zoom-in").order-1.mb-3.mb-lg-0
-                  img.img-fluid(src='@/assets/curso/tema1/2.svg', style="max-width:190px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
+                .col-lg-4(data-aos="zoom-in").order-1.mb-lg-0
+                  img.img-fluid(src='@/assets/curso/tema1/2.svg', style="max-width:190px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-lg-0
         p Pero, <b>¿qué elementos hacen que un entorno educativo sea realmente estimulante?</b>
     
     .bg-full-width.bg-fondo-slider
@@ -64,9 +64,9 @@
               p Por otro lado, la estimulación temprana no es un proceso homogéneo; cada niño posee ritmos de aprendizaje y necesidades específicas. Es por ello que se deben considerar estrategias inclusivas, que permitan adaptar las actividades a la diversidad de estilos de aprendizaje. Un aula estimulante es aquella que ofrece múltiples formas de acceder al conocimiento, promoviendo el respeto por la individualidad.
     
     .bg-full-width.bg-color-15.mb-5
-      .px-4.px-md-5
-        .row.align-items-center
-          .col-lg-2
+      .px-4.px-md-5.pb-md-4.pb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/7.svg", data-aos="zoom-in").mx-auto
           .col-lg-10
             h2 Reflexionemos: 
@@ -284,18 +284,18 @@
               p.mb-0 Por otro lado, los niños que presentan dificultades motoras requieren materiales adaptados que favorezcan su participación en las actividades diarias. Elementos como lápices ergonómicos, tijeras de fácil agarre y mesas ajustables, pueden contribuir significativamente a su desempeño. Asimismo, es importante integrar ejercicios de estimulación motora que fortalezcan su coordinación y movilidad, asegurando que los espacios del aula sean accesibles y seguros para su desplazamiento.
     
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/20.svg", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         .bg-color-2.p-4.mb-3(data-aos="fade-left")
           p.mb-0 En el caso de los niños que enfrentan desafíos en la interacción social y la regulación emocional, es fundamental establecer rutinas predecibles que les brinden estabilidad y seguridad. El uso de dinámicas cooperativas, juegos de roles y estrategias de refuerzo positivo, puede fortalecer sus habilidades sociales y emocionales. Además, enseñar técnicas de autorregulación, como ejercicios de respiración o el uso de espacios de calma, les permite gestionar mejor sus emociones y afrontar diversas situaciones en el entorno escolar.
         p(data-aos="fade-left") El docente juega un papel esencial en la intervención educativa, porque no solo facilita el aprendizaje, sino que también observa, adapta y diseña estrategias en función de las necesidades del grupo. Mantener una comunicación constante con las familias y otros profesionales, como terapeutas y psicólogos, permite desarrollar intervenciones más efectivas y coherentes con el contexto del niño.
     
     .bg-full-width.bg-color-6.mb-5
-      .px-4.px-md-5
-        .row.align-items-center
-          .col-lg-2
+      .px-4.px-md-5.pb-md-4.pb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/21.svg", data-aos="zoom-in").mx-auto
           .col-lg-10.text-white
             h2 Reflexionemos: 

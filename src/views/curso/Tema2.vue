@@ -148,9 +148,9 @@
                   p.mb-0 Capacidad para resolver conflictos con estrategias adaptativas.
 
     .bg-full-width.bg-color-15.mb-5
-      .px-4.px-md-5
-        .row.align-items-center
-          .col-lg-2
+      .px-4.px-md-5.pb-md-4.pb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/9.svg", data-aos="zoom-in").mx-auto
           .col-lg-10
             h2 Reflexionemos: 
@@ -265,9 +265,9 @@
                   p.mb-0 Fomentar el gusto por el aprendizaje a través de desafíos progresivos y alcanzables.
 
     .bg-full-width.bg-color-6.mb-5
-      .px-4.px-md-5
-        .row.align-items-center
-          .col-lg-2
+      .px-4.px-md-5.pb-md-4.pb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/16.svg", data-aos="zoom-in").mx-auto
           .col-lg-10.text-white
             h2 Reflexionemos: 

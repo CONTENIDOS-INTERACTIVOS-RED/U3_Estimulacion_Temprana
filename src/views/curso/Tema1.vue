@@ -85,7 +85,7 @@
             h2.mb-4(data-aos="flip-up") Diseño de estrategias, según las necesidades del desarrollo infantil
             p.mb-4(data-aos="fade-right") En el PDF <b>Diseño de estrategias</b>, se analizan enfoques teórico-prácticos para la creación de estrategias de estimulación temprana, considerando la integración de dimensiones cognitivas, motrices, socioemocionales y del lenguaje. A través de ejemplos y reflexiones, se presentan herramientas que permiten a los docentes diseñar experiencias de aprendizaje enriquecedoras, flexibles y ajustadas a los distintos ritmos de desarrollo, fomentando así un ambiente educativo más inclusivo y estimulante.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -314,7 +314,7 @@
             h2.mb-4(data-aos="flip-up") Rol del docente y la familia en la implementación de estrategias 
             p.mb-4(data-aos="fade-right") En el PDF <b>Rol del docente y la familia en la implementación de estrategias</b>, se analizan las responsabilidades y aportes de cada parte en el proceso de estimulación temprana, destacando la importancia del trabajo conjunto para potenciar el desarrollo cognitivo, socioemocional y motriz de los niños. A través de enfoques prácticos y ejemplos aplicados, se presentan herramientas para fortalecer la interacción entre docentes y familias, promoviendo ambientes de aprendizaje enriquecedores y adaptados a las necesidades individuales de cada niño.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

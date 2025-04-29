@@ -26,7 +26,7 @@
             h2.mb-4(data-aos="flip-up") Nuevas tecnologías aplicadas a la estimulación temprana 
             p.mb-4(data-aos="fade-right") En el PDF <b>Nuevas tecnologías aplicadas a la estimulación temprana</b>, se exploran recursos innovadores como aplicaciones interactivas, realidad aumentada, robótica educativa y dispositivos adaptativos, destacando su impacto en la primera infancia. Además, se abordan consideraciones clave para un uso equilibrado y supervisado de la tecnología, garantizando que favorezca el desarrollo infantil sin reemplazar la exploración física y la interacción social.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -193,7 +193,7 @@
             h2.mb-4(data-aos="flip-up") Recursos interactivos y digitales para potenciar el aprendizaje 
             p.mb-4(data-aos="fade-right") En el PDF <b>Recursos interactivos y digitales para potenciar el aprendizaje</b>, se analizan diversas herramientas tecnológicas como aplicaciones educativas, cuentos interactivos, realidad aumentada, robótica y plataformas en línea, destacando su impacto en el desarrollo infantil. Además, se presentan estrategias para un uso equilibrado y supervisado de estos recursos, asegurando que contribuyan al aprendizaje sin reemplazar la exploración física y la interacción social esenciales en la primera infancia.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -215,7 +215,7 @@
             h2.mb-4(data-aos="flip-up") Enfoques interdisciplinarios en la estimulación temprana 
             p.mb-4(data-aos="fade-right") En el PDF <b>Enfoques interdisciplinarios en la estimulación temprana</b>, se exploran las contribuciones de especialistas como docentes, psicólogos, fonoaudiólogos, terapeutas ocupacionales y neurocientíficos, resaltando la importancia de su trabajo conjunto para potenciar el desarrollo cognitivo, motor, lingüístico y socioemocional. A través de este análisis, se destacan los beneficios de una colaboración estructurada, que no solo mejora la detección temprana de dificultades, sino que también fortalece la comunicación entre profesionales y familias para optimizar los procesos de aprendizaje en la primera infancia.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_9.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -344,7 +344,7 @@
             h2.mb-4(data-aos="flip-up") Casos de éxito y buenas prácticas en estimulación temprana 
             p.mb-4(data-aos="fade-right") En el PDF <b>Casos de éxito y buenas prácticas en estimulación temprana</b>, se presentan iniciativas de distintos países que han logrado fortalecer el aprendizaje infantil a través de enfoques innovadores como la lectura interactiva, el juego estructurado y la estimulación multisensorial. A partir de estos casos, se destacan los elementos clave que contribuyen a una educación inicial de calidad, promoviendo estrategias adaptadas a las necesidades individuales de cada niño y garantizando un aprendizaje significativo desde la primera infancia.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_10.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

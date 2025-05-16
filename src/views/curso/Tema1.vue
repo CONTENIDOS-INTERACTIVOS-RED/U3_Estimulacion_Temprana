@@ -168,7 +168,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Diseño de ambientes de aprendizaje estimulantes 
-            p.mb-4(data-aos="fade-right") En el PDF <b>Diseño de ambientes de aprendizaje estimulantes</b>, se exploran los elementos esenciales para crear espacios educativos dinámicos y flexibles, que favorezcan la exploración, la interacción y la experimentación. A través de estrategias basadas en la organización del aula, la accesibilidad de materiales y la estimulación multisensorial, se presentan recomendaciones prácticas para diseñar entornos que fomenten un aprendizaje significativo y motivador, promoviendo así experiencias enriquecedoras adaptadas a las necesidades individuales de cada niño
+            p.mb-4(data-aos="fade-right") En el PDF <b>Diseño de ambientes de aprendizaje estimulantes</b>, se exploran los elementos esenciales para crear espacios educativos dinámicos y flexibles, que favorezcan la exploración, la interacción y la experimentación. A través de estrategias basadas en la organización del aula, la accesibilidad de materiales y la estimulación multisensorial, se presentan recomendaciones prácticas para diseñar entornos que fomenten un aprendizaje significativo y motivador, promoviendo así experiencias enriquecedoras adaptadas a las necesidades individuales de cada niño.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")

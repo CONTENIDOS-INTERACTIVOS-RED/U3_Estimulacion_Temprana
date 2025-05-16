@@ -137,7 +137,7 @@
           img(src="@/assets/curso/tema3/14.svg", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
         h5 ¿Cómo han evolucionado las metodologías en la educación inicial para responder a las necesidades del desarrollo infantil?
-        p(data-aos="fade-left") La educación inicial ha experimentado una transformación significativa en los últimos años, incorporando enfoques innovadores que buscan responder de manera más efectiva a las necesidades del desarrollo infantil. La neurociencia, la pedagogía activa y las tecnologías emergentes han influido en la manera en que se diseñan las experiencias de aprendizaje para los niños en sus primeros años de vida
+        p(data-aos="fade-left") La educación inicial ha experimentado una transformación significativa en los últimos años, incorporando enfoques innovadores que buscan responder de manera más efectiva a las necesidades del desarrollo infantil. La neurociencia, la pedagogía activa y las tecnologías emergentes han influido en la manera en que se diseñan las experiencias de aprendizaje para los niños en sus primeros años de vida.
     
         .bg-color-4.p-4(data-aos="fade-left")
           .row.align-items-start

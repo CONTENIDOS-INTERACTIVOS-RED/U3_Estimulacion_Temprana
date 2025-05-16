@@ -32,7 +32,7 @@
             p(data-aos="fade-left").mb-4.text-white Para conocer sobre esta temática, lo invitamos a escuchar el siguiente podcast.
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Métodos y herramientas para evaluar el desarrollo infantil"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
